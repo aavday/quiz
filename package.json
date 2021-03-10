@@ -1,7 +1,7 @@
 {
-  "name": "vita-tent",
+  "name": "quiz",
   "version": "1.0.0",
-  "description": "vita-tent",
+  "description": "Квиз из курсов по JS от Net Ninja",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
